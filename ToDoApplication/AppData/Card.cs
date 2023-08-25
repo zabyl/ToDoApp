@@ -12,6 +12,6 @@ namespace ToDoApplication.AppData
         public string Content { get; set; }
         public string Member { get; set; }
         public string Size { get; set; }
-        public string BoardType { get; set; } = "TODO";
+        public string BoardType { get; set; }
     }
 }

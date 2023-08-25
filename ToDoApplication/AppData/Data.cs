@@ -18,7 +18,7 @@ namespace ToDoApplication.AppData
             {
                 new Card() {Title="New Project", Content="Drafting the project and assigning the groups", Member="Mahir", Size="L", BoardType="TODO"},
                 new Card() {Title="Research", Content="Data Science", Member="Arda", Size="L", BoardType="IN PROGRESS"},
-                new Card() {Title="Meeting", Content="Increasing the productivity of group members", Member="Sima", Size="Xl", BoardType="DONE"}
+                new Card() {Title="Meeting", Content="Increasing the productivity of group members", Member="Sima", Size="XL", BoardType="DONE"}
             };
 
 
